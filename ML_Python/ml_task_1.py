@@ -1,3 +1,5 @@
+# Task 1 : collatz conjecture
+
 def collatz(x):
     if(x%2==0):
         x=x/2
