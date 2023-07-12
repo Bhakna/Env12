@@ -1,3 +1,4 @@
+# Task 2 : Tower of Hanoi puzzle
 from numpy import arange, ones
 
 n=eval(input("Enter no. of disks: "))
